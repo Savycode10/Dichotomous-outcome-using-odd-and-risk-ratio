@@ -1,0 +1,167 @@
+---
+title: "Dichotomous outcome using risk and odd ratios with its application."
+author: "Dan Saviour Udo"
+date: "2025-02-15"
+output:
+  word_document: default
+  pdf_document: default
+---
+
+
+```{r}
+library(readr)
+library(ggplot2)
+library(dplyr)
+df <- read_csv("princess project data.csv")
+```
+
+```{r}
+str(df)
+```
+
+```{r}
+unique(df$age)
+```
+
+```{r}
+# Modify the age column to remove "Grade"
+df <- df %>%
+  mutate(age = recode(age, 
+                      "Grade 30-Grade 39" = "30-39", 
+                      "Grade 20-Grade 29" = "20-29"))
+
+```
+
+```{r}
+df_summary <- df %>%
+  group_by(age) %>%
+  summarise(count = n()) %>%
+  mutate(percentage = round((count / sum(count)) * 100, 1))
+
+# Plot the bar chart
+ggplot(df_summary, aes(x = age, y = count, fill = age)) +  
+  geom_bar(stat = "identity") + 
+  geom_text(aes(label = paste0(percentage, "%")), vjust = 0.6, size = 5) + 
+  scale_fill_manual(values = c("20-29" = "cyan", 
+                               "30-39" = "steelblue", 
+                               "40-49" = "tomato", 
+                               "50-59" = "seagreen", 
+                               "60-69" = "purple", 
+                               "70-79" = "orange")) +
+  theme_minimal() +
+  labs(title = "Distribution of Age Groups",
+       x = "Age Group",
+       y = "Count") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+```{r}
+# Calculate percentages for menopause
+df_summary_menopause <- df %>%
+  group_by(menopause) %>%
+  summarise(count = n()) %>%
+  mutate(percentage = round((count / sum(count)) * 100, 1))  # Compute percentage
+
+# Plot with adjusted percentage label position
+ggplot(df_summary_menopause, aes(x = menopause, y = count, fill = menopause)) +
+  geom_bar(stat = "identity") +  
+  geom_text(aes(label = paste0(percentage, "%")), vjust = 1.5, color = "black", size = 5) +  
+  theme_minimal() +
+  labs(title = "Distribution of Menopausal Status",
+       x = "Menopausal Status",
+       y = "Count") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) 
+```
+```{r}
+# Calculate percentages for deg_malig
+df_summary_deg_malig <- df %>%
+  group_by(deg_malig) %>%
+  summarise(count = n()) %>%
+  mutate(percentage = round((count / sum(count)) * 100, 1))  # Compute percentage
+
+# Plot with adjusted percentage label position
+ggplot(df_summary_deg_malig, aes(x = deg_malig, y = count, fill = deg_malig)) +
+  geom_bar(stat = "identity") +  
+  geom_text(aes(label = paste0(percentage, "%")), vjust = 1.5, color = "black", size = 5) +  
+  theme_minimal() +
+  labs(title = "Distribution of Degree of Malignancy",
+       x = "Degree of Malignancy",
+       y = "Count") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+
+```{r}
+# Calculate percentages for breast
+df_summary_breast <- df %>%
+  group_by(breast) %>%
+  summarise(count = n()) %>%
+  mutate(percentage = round((count / sum(count)) * 100, 1))  # Compute percentage
+
+# Plot with adjusted percentage label position
+ggplot(df_summary_breast, aes(x = breast, y = count, fill = breast)) +
+  geom_bar(stat = "identity") +  
+  geom_text(aes(label = paste0(percentage, "%")), vjust = 1.5, color = "black", size = 5) +  
+  theme_minimal() +
+  labs(title = "Distribution of Breast side with recurrent Cancer",
+       x = "Breast Side",
+       y = "Count") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+```{r}
+# Calculate percentages for irradiat
+df_summary_irradiat <- df %>%
+  group_by(irradiat) %>%
+  summarise(count = n()) %>%
+  mutate(percentage = round((count / sum(count)) * 100, 1))  # Compute percentage
+
+# Plot with adjusted percentage label position
+ggplot(df_summary_irradiat, aes(x = irradiat, y = count, fill = irradiat)) +
+  geom_bar(stat = "identity") +  
+  geom_text(aes(label = paste0(percentage, "%")), vjust = 1.5, color = "black", size = 5) +  
+  theme_minimal() +
+  labs(title = "Distribution of Irradiation treatment",
+       x = "Irradiation Status",
+       y = "Count") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+
+
+```{r}
+Tab <- table(df$menopause,df$target)
+Tab
+```
+
+
+
+
+
+```{r}
+library(epiR)
+```
+
+```{r}
+epi.2by2(Tab, method = "cohort.count", conf.level = 0.95)
+```
+
+
+```{r}
+Tab2 <- table(df$breast, df$target)
+Tab2
+```
+
+```{r}
+epi.2by2(Tab2, method = "cohort.count", conf.level = 0.95)
+```
+
+```{r}
+Tab3 <- table(df$irradiat, df$target)
+Tab3
+```
+
+```{r}
+epi.2by2(Tab3, method = "cohort.count", conf.level = 0.95)
+```
+
