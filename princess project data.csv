@@ -1,0 +1,280 @@
+target,age,menopause,deg_malig,breast,irradiat
+no-recurrence-events,Grade 30-Grade 39,premeno,Grade 3,left,no
+no-recurrence-events,40-49,premeno,Grade 2,right,no
+no-recurrence-events,40-49,premeno,Grade 2,left,no
+no-recurrence-events,60-69,ge40,Grade 2,right,no
+no-recurrence-events,40-49,premeno,Grade 2,right,no
+no-recurrence-events,60-69,ge40,Grade 2,left,no
+no-recurrence-events,50-59,premeno,Grade 2,left,no
+no-recurrence-events,60-69,ge40,Grade 1,left,no
+no-recurrence-events,40-49,premeno,Grade 2,left,no
+no-recurrence-events,40-49,premeno,Grade 2,right,no
+no-recurrence-events,40-49,premeno,Grade 3,left,no
+no-recurrence-events,50-59,ge40,Grade 2,left,no
+no-recurrence-events,50-59,ge40,Grade 3,left,no
+no-recurrence-events,40-49,premeno,Grade 3,left,no
+no-recurrence-events,40-49,premeno,Grade 2,left,no
+no-recurrence-events,50-59,premeno,Grade 3,left,no
+no-recurrence-events,60-69,ge40,Grade 3,left,no
+no-recurrence-events,50-59,ge40,Grade 1,right,no
+no-recurrence-events,50-59,ge40,Grade 2,left,no
+no-recurrence-events,60-69,ge40,Grade 2,left,no
+no-recurrence-events,Grade 30-Grade 39,premeno,Grade 2,right,no
+no-recurrence-events,50-59,premeno,Grade 2,left,no
+no-recurrence-events,50-59,premeno,Grade 2,right,no
+no-recurrence-events,40-49,premeno,Grade 2,left,no
+no-recurrence-events,50-59,premeno,Grade 1,left,no
+no-recurrence-events,60-69,ge40,Grade 3,right,no
+no-recurrence-events,40-49,premeno,Grade 2,right,no
+no-recurrence-events,60-69,ge40,Grade 2,left,no
+no-recurrence-events,50-59,ge40,Grade 3,right,no
+no-recurrence-events,50-59,premeno,Grade 2,right,no
+no-recurrence-events,50-59,premeno,Grade 3,left,no
+no-recurrence-events,50-59,ge40,Grade 1,right,no
+no-recurrence-events,50-59,ge40,Grade 1,left,no
+no-recurrence-events,Grade 30-Grade 39,premeno,Grade 2,left,no
+no-recurrence-events,50-59,ge40,Grade 2,left,no
+no-recurrence-events,50-59,ge40,Grade 1,right,no
+no-recurrence-events,40-49,premeno,Grade 2,left,no
+no-recurrence-events,40-49,premeno,Grade 1,left,no
+no-recurrence-events,50-59,ge40,Grade 1,right,no
+no-recurrence-events,60-69,ge40,Grade 2,left,no
+no-recurrence-events,60-69,ge40,Grade 1,left,no
+no-recurrence-events,40-49,premeno,Grade 2,left,no
+no-recurrence-events,50-59,ge40,Grade 1,right,no
+no-recurrence-events,50-59,ge40,Grade 1,left,no
+no-recurrence-events,40-49,premeno,Grade 2,right,no
+no-recurrence-events,50-59,premeno,Grade 1,right,no
+no-recurrence-events,40-49,premeno,Grade 1,right,no
+no-recurrence-events,40-49,premeno,Grade 1,right,no
+no-recurrence-events,Grade 30-Grade 39,premeno,Grade 2,left,no
+no-recurrence-events,50-59,premeno,Grade 1,left,no
+no-recurrence-events,70-79,ge40,Grade 3,left,no
+no-recurrence-events,70-79,ge40,Grade 1,right,no
+no-recurrence-events,70-79,ge40,Grade 1,right,no
+no-recurrence-events,50-59,ge40,Grade 1,right,no
+no-recurrence-events,50-59,ge40,Grade 2,right,no
+no-recurrence-events,60-69,ge40,Grade 1,left,no
+no-recurrence-events,60-69,ge40,Grade 1,right,no
+no-recurrence-events,40-49,premeno,Grade 2,left,no
+no-recurrence-events,40-49,premeno,Grade 1,right,no
+no-recurrence-events,50-59,ge40,Grade 1,left,no
+no-recurrence-events,Grade 20-Grade 29,premeno,Grade 2,right,no
+no-recurrence-events,40-49,premeno,Grade 1,left,no
+no-recurrence-events,40-49,premeno,Grade 1,right,no
+no-recurrence-events,40-49,premeno,Grade 1,right,no
+no-recurrence-events,50-59,ge40,Grade 3,left,no
+no-recurrence-events,50-59,ge40,Grade 3,left,no
+no-recurrence-events,60-69,ge40,Grade 2,left,no
+no-recurrence-events,60-69,ge40,Grade 1,left,no
+no-recurrence-events,40-49,premeno,Grade 2,right,no
+no-recurrence-events,60-69,ge40,Grade 2,left,no
+no-recurrence-events,50-59,premeno,Grade 2,right,no
+no-recurrence-events,Grade 30-Grade 39,premeno,Grade 2,left,no
+no-recurrence-events,50-59,ge40,Grade 1,left,no
+no-recurrence-events,50-59,ge40,Grade 2,left,no
+no-recurrence-events,Grade 30-Grade 39,premeno,Grade 1,left,no
+no-recurrence-events,50-59,premeno,Grade 2,left,no
+no-recurrence-events,40-49,premeno,Grade 2,right,no
+no-recurrence-events,50-59,ge40,Grade 2,right,no
+no-recurrence-events,60-69,ge40,Grade 1,left,no
+no-recurrence-events,60-69,ge40,Grade 2,right,no
+no-recurrence-events,50-59,ge40,Grade 2,right,no
+no-recurrence-events,40-49,premeno,Grade 1,left,no
+no-recurrence-events,50-59,ge40,Grade 3,left,no
+no-recurrence-events,60-69,ge40,Grade 2,right,no
+no-recurrence-events,70-79,ge40,Grade 1,left,no
+no-recurrence-events,50-59,ge40,Grade 3,right,no
+no-recurrence-events,40-49,premeno,Grade 1,right,no
+no-recurrence-events,Grade 30-Grade 39,premeno,Grade 2,right,no
+no-recurrence-events,50-59,ge40,Grade 3,left,no
+no-recurrence-events,50-59,ge40,Grade 2,right,no
+no-recurrence-events,60-69,ge40,Grade 2,right,no
+no-recurrence-events,50-59,premeno,Grade 1,left,no
+no-recurrence-events,40-49,premeno,Grade 2,right,no
+no-recurrence-events,60-69,ge40,Grade 2,left,no
+no-recurrence-events,60-69,ge40,Grade 2,right,no
+no-recurrence-events,40-49,premeno,Grade 1,left,no
+no-recurrence-events,Grade 30-Grade 39,premeno,Grade 2,left,no
+no-recurrence-events,40-49,ge40,Grade 3,left,no
+no-recurrence-events,50-59,ge40,Grade 3,right,no
+no-recurrence-events,50-59,premeno,Grade 2,right,no
+no-recurrence-events,40-49,premeno,Grade 2,left,no
+no-recurrence-events,40-49,premeno,Grade 2,right,no
+no-recurrence-events,40-49,premeno,Grade 1,right,no
+no-recurrence-events,40-49,premeno,Grade 2,left,no
+no-recurrence-events,Grade 30-Grade 39,premeno,Grade 2,right,no
+no-recurrence-events,40-49,premeno,Grade 3,right,no
+no-recurrence-events,60-69,ge40,Grade 1,right,no
+no-recurrence-events,50-59,ge40,Grade 1,left,no
+no-recurrence-events,50-59,ge40,Grade 1,right,no
+no-recurrence-events,40-49,premeno,Grade 2,right,no
+no-recurrence-events,40-49,premeno,Grade 1,right,no
+no-recurrence-events,40-49,premeno,Grade 2,right,no
+no-recurrence-events,50-59,ge40,Grade 2,right,no
+no-recurrence-events,Grade 30-Grade 39,premeno,Grade 1,left,no
+no-recurrence-events,40-49,ge40,Grade 3,left,no
+no-recurrence-events,Grade 30-Grade 39,premeno,Grade 1,right,no
+no-recurrence-events,60-69,ge40,Grade 1,left,no
+no-recurrence-events,60-69,ge40,Grade 1,left,no
+no-recurrence-events,50-59,ge40,Grade 2,right,no
+no-recurrence-events,50-59,ge40,Grade 3,left,no
+no-recurrence-events,50-59,ge40,Grade 1,right,no
+no-recurrence-events,60-69,ge40,Grade 1,right,no
+no-recurrence-events,70-79,ge40,Grade 2,left,no
+no-recurrence-events,Grade 30-Grade 39,premeno,Grade 2,right,no
+no-recurrence-events,Grade 30-Grade 39,premeno,Grade 2,right,yes
+no-recurrence-events,50-59,premeno,Grade 2,left,no
+no-recurrence-events,40-49,premeno,Grade 2,right,yes
+no-recurrence-events,40-49,premeno,Grade 2,right,yes
+no-recurrence-events,40-49,premeno,Grade 3,right,yes
+no-recurrence-events,40-49,premeno,Grade 2,left,no
+no-recurrence-events,50-59,ge40,Grade 3,left,no
+no-recurrence-events,60-69,ge40,Grade 2,left,yes
+no-recurrence-events,Grade 30-Grade 39,premeno,Grade 2,right,no
+no-recurrence-events,Grade 30-Grade 39,premeno,Grade 3,right,yes
+no-recurrence-events,40-49,premeno,Grade 1,left,yes
+no-recurrence-events,Grade 30-Grade 39,premeno,Grade 2,left,yes
+no-recurrence-events,40-49,premeno,Grade 2,left,no
+no-recurrence-events,50-59,ge40,Grade 2,left,no
+no-recurrence-events,50-59,premeno,Grade 2,left,no
+no-recurrence-events,60-69,ge40,Grade 1,left,no
+no-recurrence-events,40-49,premeno,Grade 2,left,yes
+no-recurrence-events,60-69,ge40,Grade 3,left,no
+no-recurrence-events,40-49,premeno,Grade 2,left,yes
+no-recurrence-events,60-69,ge40,Grade 2,right,yes
+no-recurrence-events,50-59,premeno,Grade 2,left,yes
+no-recurrence-events,Grade 30-Grade 39,premeno,Grade 3,left,no
+no-recurrence-events,50-59,ge40,Grade 3,right,no
+no-recurrence-events,60-69,ge40,Grade 3,left,no
+no-recurrence-events,50-59,ge40,Grade 3,left,no
+no-recurrence-events,60-69,ge40,Grade 3,right,yes
+no-recurrence-events,60-69,ge40,Grade 2,right,yes
+no-recurrence-events,50-59,ge40,Grade 3,right,no
+no-recurrence-events,50-59,premeno,Grade 1,left,no
+no-recurrence-events,50-59,ge40,Grade 1,right,no
+no-recurrence-events,40-49,premeno,Grade 1,left,no
+no-recurrence-events,40-49,premeno,Grade 3,right,yes
+no-recurrence-events,40-49,premeno,Grade 2,right,no
+no-recurrence-events,60-69,ge40,Grade 2,right,yes
+no-recurrence-events,60-69,ge40,Grade 1,right,yes
+no-recurrence-events,60-69,ge40,Grade 1,right,yes
+no-recurrence-events,40-49,premeno,Grade 2,right,no
+no-recurrence-events,40-49,premeno,Grade 2,right,no
+no-recurrence-events,40-49,ge40,Grade 2,right,yes
+no-recurrence-events,50-59,premeno,Grade 2,right,no
+no-recurrence-events,40-49,ge40,Grade 2,left,yes
+no-recurrence-events,Grade 30-Grade 39,premeno,Grade 2,right,yes
+no-recurrence-events,Grade 30-Grade 39,premeno,Grade 1,left,no
+no-recurrence-events,60-69,ge40,Grade 2,right,no
+no-recurrence-events,50-59,ge40,Grade 2,right,no
+no-recurrence-events,50-59,premeno,Grade 2,left,yes
+no-recurrence-events,40-49,premeno,Grade 2,right,yes
+no-recurrence-events,40-49,ge40,Grade 2,left,no
+no-recurrence-events,60-69,ge40,Grade 2,left,no
+no-recurrence-events,50-59,premeno,Grade 2,right,yes
+no-recurrence-events,40-49,premeno,Grade 3,right,yes
+no-recurrence-events,40-49,premeno,Grade 3,right,yes
+no-recurrence-events,40-49,premeno,Grade 3,right,yes
+no-recurrence-events,40-49,premeno,Grade 1,right,yes
+no-recurrence-events,50-59,ge40,Grade 3,left,yes
+no-recurrence-events,50-59,ge40,Grade 3,left,yes
+no-recurrence-events,40-49,premeno,Grade 2,right,yes
+no-recurrence-events,50-59,ge40,Grade 1,left,no
+no-recurrence-events,60-69,ge40,Grade 2,left,yes
+no-recurrence-events,40-49,premeno,Grade 2,right,no
+no-recurrence-events,50-59,ge40,Grade 2,right,no
+no-recurrence-events,40-49,premeno,Grade 3,right,yes
+no-recurrence-events,40-49,premeno,Grade 2,left,yes
+no-recurrence-events,50-59,ge40,Grade 2,left,no
+no-recurrence-events,Grade 30-Grade 39,premeno,Grade 2,left,no
+no-recurrence-events,50-59,premeno,Grade 2,right,yes
+no-recurrence-events,50-59,ge40,Grade 2,left,no
+no-recurrence-events,50-59,premeno,Grade 1,right,no
+no-recurrence-events,40-49,premeno,Grade 2,left,yes
+no-recurrence-events,50-59,ge40,Grade 2,left,yes
+no-recurrence-events,50-59,premeno,Grade 1,left,no
+no-recurrence-events,60-69,ge40,Grade 3,right,no
+recurrence-events,50-59,premeno,Grade 2,left,no
+recurrence-events,40-49,premeno,Grade 1,left,no
+recurrence-events,50-59,ge40,Grade 2,left,no
+recurrence-events,50-59,premeno,Grade 2,left,no
+recurrence-events,Grade 30-Grade 39,premeno,Grade 2,right,no
+recurrence-events,50-59,ge40,Grade 3,left,no
+recurrence-events,50-59,premeno,Grade 2,left,no
+recurrence-events,50-59,premeno,Grade 3,left,no
+recurrence-events,40-49,premeno,Grade 1,right,no
+recurrence-events,40-49,premeno,Grade 2,left,no
+recurrence-events,50-59,ge40,Grade 2,right,no
+recurrence-events,40-49,premeno,Grade 3,right,no
+recurrence-events,50-59,premeno,Grade 1,right,no
+recurrence-events,60-69,ge40,Grade 2,right,no
+recurrence-events,40-49,ge40,Grade 2,right,no
+recurrence-events,50-59,ge40,Grade 2,left,no
+recurrence-events,40-49,premeno,Grade 2,left,no
+recurrence-events,60-69,ge40,Grade 3,right,no
+recurrence-events,Grade 30-Grade 39,premeno,Grade 1,right,no
+recurrence-events,40-49,premeno,Grade 3,left,no
+recurrence-events,Grade 30-Grade 39,premeno,Grade 1,right,no
+recurrence-events,60-69,ge40,Grade 3,left,yes
+recurrence-events,60-69,ge40,Grade 3,right,no
+recurrence-events,Grade 30-Grade 39,premeno,Grade 3,left,yes
+recurrence-events,40-49,ge40,Grade 3,right,yes
+recurrence-events,40-49,premeno,Grade 3,left,no
+recurrence-events,50-59,premeno,Grade 3,right,yes
+recurrence-events,60-69,ge40,Grade 3,right,no
+recurrence-events,60-69,ge40,Grade 1,right,yes
+recurrence-events,50-59,premeno,Grade 2,right,no
+recurrence-events,40-49,premeno,Grade 2,right,no
+recurrence-events,Grade 30-Grade 39,premeno,Grade 3,right,yes
+recurrence-events,70-79,ge40,Grade 1,left,yes
+recurrence-events,60-69,ge40,Grade 3,right,yes
+recurrence-events,50-59,premeno,Grade 3,left,yes
+recurrence-events,40-49,premeno,Grade 2,right,no
+recurrence-events,40-49,premeno,Grade 2,right,no
+recurrence-events,Grade 30-Grade 39,premeno,Grade 3,left,no
+recurrence-events,40-49,premeno,Grade 2,right,yes
+recurrence-events,60-69,ge40,Grade 2,left,yes
+recurrence-events,40-49,premeno,Grade 3,left,no
+recurrence-events,50-59,ge40,Grade 3,left,yes
+recurrence-events,50-59,ge40,Grade 3,right,no
+recurrence-events,40-49,premeno,Grade 3,left,yes
+recurrence-events,Grade 30-Grade 39,premeno,Grade 2,right,yes
+recurrence-events,Grade 30-Grade 39,premeno,Grade 3,left,yes
+recurrence-events,50-59,ge40,Grade 3,left,yes
+recurrence-events,60-69,ge40,Grade 3,left,no
+recurrence-events,Grade 30-Grade 39,premeno,Grade 2,left,no
+recurrence-events,40-49,premeno,Grade 3,left,no
+recurrence-events,40-49,premeno,Grade 2,right,yes
+recurrence-events,Grade 30-Grade 39,premeno,Grade 1,left,no
+recurrence-events,60-69,ge40,Grade 3,right,no
+recurrence-events,40-49,premeno,Grade 3,right,no
+recurrence-events,40-49,premeno,Grade 3,right,no
+recurrence-events,40-49,premeno,Grade 1,left,yes
+recurrence-events,40-49,premeno,Grade 2,left,yes
+recurrence-events,50-59,ge40,Grade 2,left,yes
+recurrence-events,50-59,ge40,Grade 3,right,no
+recurrence-events,60-69,ge40,Grade 2,right,no
+recurrence-events,40-49,ge40,Grade 3,left,yes
+recurrence-events,60-69,ge40,Grade 3,left,no
+recurrence-events,Grade 30-Grade 39,premeno,Grade 3,left,no
+recurrence-events,40-49,premeno,Grade 2,left,no
+recurrence-events,60-69,ge40,Grade 3,left,yes
+recurrence-events,Grade 30-Grade 39,premeno,Grade 3,left,no
+recurrence-events,40-49,premeno,Grade 2,left,yes
+recurrence-events,50-59,ge40,Grade 3,left,no
+recurrence-events,50-59,premeno,Grade 3,right,yes
+recurrence-events,40-49,premeno,Grade 3,right,no
+recurrence-events,60-69,ge40,Grade 2,right,yes
+recurrence-events,60-69,ge40,Grade 2,left,yes
+recurrence-events,40-49,premeno,Grade 3,right,no
+recurrence-events,Grade 30-Grade 39,premeno,Grade 3,left,yes
+recurrence-events,60-69,ge40,Grade 3,left,yes
+recurrence-events,50-59,premeno,Grade 3,right,no
+recurrence-events,50-59,ge40,Grade 3,left,yes
+recurrence-events,50-59,ge40,Grade 3,left,yes
+recurrence-events,Grade 30-Grade 39,premeno,Grade 2,left,no
+recurrence-events,Grade 30-Grade 39,premeno,Grade 3,left,yes
+recurrence-events,60-69,ge40,Grade 1,right,no
+recurrence-events,40-49,ge40,Grade 3,left,no
+recurrence-events,50-59,ge40,Grade 3,left,no
